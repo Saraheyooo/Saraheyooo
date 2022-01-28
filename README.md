@@ -1,5 +1,5 @@
 Hello, I’m TingSyuan Hsu (Sarah)
-- MSc student in Applied Data Science at Utrecht University
+- MSc student in Applied Data Science at Utrecht University 2021-2022
 - Email: fb00152133@gmail.com
 - Linkedin: https://www.linkedin.com/in/ting-syuan-hsu-592418160/
 
