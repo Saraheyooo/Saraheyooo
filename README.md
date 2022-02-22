@@ -1,4 +1,6 @@
-Hello, I’m TingSyuan Hsu (Sarah). Passionate about data technology and keep exploring the in-depth knowledge.
+Hello, I’m TingSyuan Hsu (Sarah). 
+
+Passionate about data technology and keep exploring the in-depth knowledge.
 - MSc student in Applied Data Science at Utrecht University 2021-2022
 - Email: fb00152133@gmail.com
 - Linkedin: https://www.linkedin.com/in/tingsyuan-hsu/
